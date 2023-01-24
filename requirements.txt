@@ -1,1 +1,2 @@
 geopy
+python-telegram-bot
