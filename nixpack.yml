@@ -1,0 +1,10 @@
+dependencies:
+- python3
+- telegram
+- geopy
+
+environment:
+  TOKEN: 5904394121:AAH7nygF6KE_zFsmz0Ac1EAhefSUwHMg7-8
+
+commands:
+  start: python3 bot.py
